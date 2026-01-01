@@ -1,2 +1,2 @@
-Ok so basically all this is, is a heavily modified version of psych engine made to look (and hopefully feel) like the Golden Apple mod
-the freeplay categories in this code aren't softcoded so you'll need to learn how to modify it in the code if you want to add your own songs or whatever
+Ok so basically all this is, is a heavily modified version of psych engine made to look (and hopefully feel) like the Golden Apple mod.
+the freeplay categories in this code aren't softcoded so you'll need to learn how to modify it in the code if you want to add your own songs or whatever.
