@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "lidle"
+		},
+		{
+			"offsets": [41, -77],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "ridle"
+		},
+		{
+			"offsets": [204, -21],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [214, -156],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [22, 76],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [-53, -22],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/secret/squashathon/squash",
+	"position": [80, 380],
+	"healthicon": "secret/ruby-feral",
+	"flip_x": false,
+	"healthbar_colors": [133, 36, 230],
+	"camera_position": [-200, 100],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

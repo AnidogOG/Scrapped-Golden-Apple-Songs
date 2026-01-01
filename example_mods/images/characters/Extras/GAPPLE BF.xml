@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GAPPLE BF.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Hey0000" x="5925" y="0" width="632" height="628"/>
+	<SubTexture name="Hey0001" x="5925" y="0" width="632" height="628"/>
+	<SubTexture name="Hey0002" x="6557" y="0" width="632" height="628"/>
+	<SubTexture name="Hey0003" x="6557" y="0" width="632" height="628"/>
+	<SubTexture name="Hey0004" x="7189" y="0" width="632" height="628"/>
+	<SubTexture name="Hey0005" x="7189" y="0" width="632" height="628"/>
+	<SubTexture name="Hey0006" x="0" y="628" width="632" height="628"/>
+	<SubTexture name="Hey0007" x="0" y="628" width="632" height="628"/>
+	<SubTexture name="Hey0008" x="0" y="628" width="632" height="628"/>
+	<SubTexture name="Hey0009" x="0" y="628" width="632" height="628"/>
+	<SubTexture name="Hey0010" x="0" y="628" width="632" height="628"/>
+	<SubTexture name="Hey0011" x="0" y="628" width="632" height="628"/>
+	<SubTexture name="Hey0012" x="0" y="628" width="632" height="628"/>
+	<SubTexture name="Hey0013" x="0" y="628" width="632" height="628"/>
+	<SubTexture name="Hey0014" x="0" y="628" width="632" height="628"/>
+	<SubTexture name="Hey0015" x="0" y="628" width="632" height="628"/>
+	<SubTexture name="Hey0016" x="0" y="628" width="632" height="628"/>
+	<SubTexture name="Hey0017" x="0" y="628" width="632" height="628"/>
+	<SubTexture name="Hey0018" x="0" y="628" width="632" height="628"/>
+	<SubTexture name="Hey0019" x="0" y="628" width="632" height="628"/>
+</TextureAtlas>

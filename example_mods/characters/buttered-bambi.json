@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "butteridle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [228, 545],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "butterleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [215, 548],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "butterdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [262, 542],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "butterup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [321, 536],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "butterright",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/iykyk/Buttered Bambi",
+	"position": [200, 480],
+	"healthicon": "iykyk/butter",
+	"flip_x": false,
+	"healthbar_colors": [200, 255, 95],
+	"camera_position": [-460, -400],
+	"sing_duration": 4,
+	"scale": 1.7,
+	"_editor_isPlayer": false
+}

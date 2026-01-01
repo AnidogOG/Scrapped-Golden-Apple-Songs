@@ -1,0 +1,320 @@
+{
+	"player1": "minus-bf",
+	"events": [],
+	"gfVersion": "minus-gf",
+	"player2": "minus-disrupt",
+	"notes": [
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[5818.18181818182, 6, 0],
+				[6000, 6, 0],
+				[6181.81818181818, 6, 0],
+				[6363.63636363636, 6, 0]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[6545.45454545454, 4, 0],
+				[6727.27272727273, 7, 0],
+				[6909.09090909091, 4, 0],
+				[7090.90909090909, 7, 0]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[7272.72727272727, 5, 0],
+				[7454.54545454545, 4, 0],
+				[7636.36363636364, 7, 0],
+				[7727.27272727273, 7, 0],
+				[7818.18181818182, 4, 0],
+				[7909.09090909091, 4, 0]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[8000, 6, 181.818181818182],
+				[8181.81818181818, 7, 181.818181818182],
+				[8363.63636363636, 4, 363.636363636364]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[8727.27272727273, 2, 0],
+				[8909.09090909091, 3, 0],
+				[9090.90909090909, 2, 0],
+				[9272.72727272727, 3, 0]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[9454.54545454545, 0, 0],
+				[9636.36363636364, 0, 0],
+				[9818.18181818182, 0, 0],
+				[10000, 0, 0]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[10181.8181818182, 1, 0],
+				[10363.6363636364, 3, 0],
+				[10545.4545454545, 0, 0],
+				[10636.3636363636, 3, 0],
+				[10727.2727272727, 2, 0],
+				[10818.1818181818, 3, 0]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[10909.0909090909, 1, 0],
+				[11090.9090909091, 1, 0],
+				[11272.7272727273, 0, 363.636363636364]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[11636.3636363636, 6, 0],
+				[11727.2727272727, 6, 0],
+				[11818.1818181818, 7, 0],
+				[11863.6363636364, 4, 0],
+				[11909.0909090909, 7, 0],
+				[11954.5454545455, 4, 0],
+				[12000, 6, 0],
+				[12045.4545454545, 5, 0],
+				[12090.9090909091, 6, 0],
+				[12136.3636363636, 5, 0],
+				[12181.8181818182, 4, 0],
+				[12227.2727272727, 6, 0],
+				[12272.7272727273, 4, 0],
+				[12318.1818181818, 6, 0]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[12363.6363636364, 5, 0],
+				[12545.4545454545, 5, 0],
+				[12727.2727272727, 7, 0],
+				[12772.7272727273, 6, 0],
+				[12818.1818181818, 7, 0],
+				[12863.6363636364, 6, 0],
+				[12909.0909090909, 4, 0],
+				[12954.5454545455, 5, 0],
+				[13000, 4, 0],
+				[13045.4545454545, 5, 0]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[13090.9090909091, 7, 0],
+				[13181.8181818182, 6, 0],
+				[13272.7272727273, 4, 0],
+				[13363.6363636364, 7, 0],
+				[13454.5454545455, 6, 0],
+				[13545.4545454545, 4, 0],
+				[13636.3636363636, 7, 0],
+				[13727.2727272727, 6, 0]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[13818.1818181818, 4, 0],
+				[13909.0909090909, 5, 0],
+				[14000, 7, 0],
+				[14090.9090909091, 4, 0],
+				[14181.8181818182, 5, 0],
+				[14272.7272727273, 7, 0],
+				[14363.6363636364, 4, 0],
+				[14454.5454545455, 5, 0]
+			],
+			"mustHitSection": false
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[14545.4545454545, 2, 0],
+				[14636.3636363636, 3, 0],
+				[14727.2727272727, 1, 0],
+				[14772.7272727273, 0, 0],
+				[14818.1818181818, 1, 0],
+				[14863.6363636364, 0, 0],
+				[14909.0909090909, 3, 0],
+				[14954.5454545455, 1, 0],
+				[15000, 3, 0],
+				[15045.4545454545, 1, 0],
+				[15090.9090909091, 2, 0],
+				[15136.3636363636, 0, 0],
+				[15181.8181818182, 2, 0],
+				[15227.2727272727, 0, 0]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[15272.7272727273, 1, 0],
+				[15454.5454545455, 3, 0],
+				[15636.3636363636, 2, 0],
+				[15681.8181818182, 0, 0],
+				[15727.2727272727, 2, 0],
+				[15772.7272727273, 0, 0],
+				[15818.1818181818, 3, 0],
+				[15863.6363636364, 2, 0],
+				[15909.0909090909, 3, 0],
+				[15954.5454545455, 2, 0]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[16000, 1, 0],
+				[16090.9090909091, 0, 0],
+				[16181.8181818182, 3, 0],
+				[16272.7272727273, 1, 0],
+				[16363.6363636364, 0, 0],
+				[16454.5454545455, 3, 0],
+				[16545.4545454546, 1, 0],
+				[16636.3636363636, 0, 0]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[16727.2727272727, 1, 0],
+				[16818.1818181818, 3, 0],
+				[16909.0909090909, 0, 0],
+				[17000, 1, 0],
+				[17090.9090909091, 3, 0],
+				[17181.8181818182, 0, 0],
+				[17272.7272727273, 1, 0],
+				[17363.6363636364, 3, 0]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		}
+	],
+	"song": "Minus Disruption",
+	"stage": "Disruptor",
+	"validScore": true,
+	"needsVoices": true,
+	"format": "psych_v1_convert",
+	"speed": 3.4,
+	"bpm": 330
+}

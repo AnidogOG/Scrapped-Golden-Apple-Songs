@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [-9, 6],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [-16, 160],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [10, 36],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [8, 1],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "idlel",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "idler",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [4, 21],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dooown",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/joke/swagathon/pea",
+	"position": [-280, 350],
+	"healthicon": "joke/peashooter",
+	"flip_x": false,
+	"healthbar_colors": [255, 255, 255],
+	"camera_position": [-120, -80],
+	"sing_duration": 6.1,
+	"scale": 1.4,
+	"_editor_isPlayer": false
+}

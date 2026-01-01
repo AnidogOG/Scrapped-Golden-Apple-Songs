@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "jambiidle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				320,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "electleft"
+		},
+		{
+			"offsets": [
+				-90,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "downelectric"
+		},
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "upelect"
+		},
+		{
+			"offsets": [
+				-130,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "rightrelelctric"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				560,
+				-10
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "shockleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-250
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "shockdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				317
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "upalt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-120,
+				310
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "shockright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/story/jambino/jambinew",
+	"position": [
+		-60,
+		140
+	],
+	"healthicon": "story/jambi",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		51,
+		51
+	],
+	"camera_position": [
+		20,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Flawless Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [452, 0],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Flawless note Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [56, -206],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Flawless note down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [61, -1],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Flawless note up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-94, 0],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Flawless note right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/IYKYK/Flawless/Flaw_Bandu",
+	"position": [-60, 180],
+	"healthicon": "iykyk/bandu-flawless",
+	"flip_x": false,
+	"healthbar_colors": [24, 175, 11],
+	"camera_position": [80, 20],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

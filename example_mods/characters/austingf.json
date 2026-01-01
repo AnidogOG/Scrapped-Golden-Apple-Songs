@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [190, 100],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bop"
+		},
+		{
+			"offsets": [243, 146],
+			"loop": false,
+			"fps": 24,
+			"anim": "huh",
+			"indices": [],
+			"name": "huh"
+		},
+		{
+			"offsets": [270, 130],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [510, -110],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [80, 40],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [200, 130],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [104, 75],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "idler",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [140, 70],
+			"anim": "danceleft",
+			"fps": 24,
+			"name": "idlel",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/peanut paywall/clown/austin",
+	"position": [0, 0],
+	"healthicon": "peanut paywall/austin",
+	"flip_x": false,
+	"healthbar_colors": [101, 42, 180],
+	"camera_position": [0, 0],
+	"sing_duration": 6.1,
+	"scale": 0.7,
+	"_editor_isPlayer": false
+}

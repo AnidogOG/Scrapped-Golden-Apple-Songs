@@ -1,0 +1,23 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/story/kirbathon/deaddave",
+	"position": [20, 100],
+	"healthicon": "story/deaddave",
+	"flip_x": false,
+	"healthbar_colors": [255, 255, 255],
+	"camera_position": [20, 20],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

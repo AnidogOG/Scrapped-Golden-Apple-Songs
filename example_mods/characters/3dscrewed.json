@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "3d screwed idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-164, 66],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "3d screwed left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-2, 92],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "3d screwed down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "3d screwed up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-38, 92],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "3d screwed right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/joke/screwedathon/3d_screwed",
+	"position": [-540, 120],
+	"healthicon": "joke/screwedathon/3dscrewedicons",
+	"flip_x": false,
+	"healthbar_colors": [52, 203, 78],
+	"camera_position": [80, -20],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

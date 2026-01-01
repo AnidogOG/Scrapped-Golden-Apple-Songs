@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Buttered Bambi.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="butterdown0000" x="0" y="0" width="640" height="640" frameX="-17" frameY="-1" frameWidth="657" frameHeight="641"/>
+	<SubTexture name="butterdown0001" x="0" y="0" width="640" height="640" frameX="-17" frameY="-1" frameWidth="657" frameHeight="641"/>
+	<SubTexture name="butterdown0002" x="640" y="0" width="640" height="640" frameX="-6" frameY="-1" frameWidth="657" frameHeight="641"/>
+	<SubTexture name="butterdown0003" x="640" y="0" width="640" height="640" frameX="-6" frameY="-1" frameWidth="657" frameHeight="641"/>
+	<SubTexture name="butterdown0004" x="1280" y="0" width="640" height="640" frameX="0" frameY="0" frameWidth="657" frameHeight="641"/>
+	<SubTexture name="butterdown0005" x="1280" y="0" width="640" height="640" frameX="0" frameY="0" frameWidth="657" frameHeight="641"/>
+	<SubTexture name="butterdown0006" x="1280" y="0" width="640" height="640" frameX="0" frameY="0" frameWidth="657" frameHeight="641"/>
+	<SubTexture name="butterdown0007" x="1280" y="0" width="640" height="640" frameX="0" frameY="0" frameWidth="657" frameHeight="641"/>
+	<SubTexture name="butteridle0000" x="1920" y="0" width="339" height="314" frameX="0" frameY="0" frameWidth="339" frameHeight="316"/>
+	<SubTexture name="butteridle0001" x="1920" y="0" width="339" height="314" frameX="0" frameY="0" frameWidth="339" frameHeight="316"/>
+	<SubTexture name="butteridle0002" x="2259" y="0" width="339" height="314" frameX="0" frameY="-2" frameWidth="339" frameHeight="316"/>
+	<SubTexture name="butteridle0003" x="2259" y="0" width="339" height="314" frameX="0" frameY="-2" frameWidth="339" frameHeight="316"/>
+	<SubTexture name="butteridle0004" x="2598" y="0" width="339" height="314" frameX="0" frameY="-2" frameWidth="339" frameHeight="316"/>
+	<SubTexture name="butteridle0005" x="2598" y="0" width="339" height="314" frameX="0" frameY="-2" frameWidth="339" frameHeight="316"/>
+	<SubTexture name="butteridle0006" x="2937" y="0" width="339" height="314" frameX="0" frameY="-2" frameWidth="339" frameHeight="316"/>
+	<SubTexture name="butteridle0007" x="2937" y="0" width="339" height="314" frameX="0" frameY="-2" frameWidth="339" frameHeight="316"/>
+	<SubTexture name="butteridle0008" x="3276" y="0" width="339" height="313" frameX="0" frameY="0" frameWidth="339" frameHeight="316"/>
+	<SubTexture name="butteridle0009" x="3276" y="0" width="339" height="313" frameX="0" frameY="0" frameWidth="339" frameHeight="316"/>
+	<SubTexture name="butterleft0000" x="0" y="640" width="640" height="640" frameX="0" frameY="0" frameWidth="643" frameHeight="641"/>
+	<SubTexture name="butterleft0001" x="0" y="640" width="640" height="640" frameX="0" frameY="0" frameWidth="643" frameHeight="641"/>
+	<SubTexture name="butterleft0002" x="640" y="640" width="640" height="640" frameX="-2" frameY="-1" frameWidth="643" frameHeight="641"/>
+	<SubTexture name="butterleft0003" x="640" y="640" width="640" height="640" frameX="-2" frameY="-1" frameWidth="643" frameHeight="641"/>
+	<SubTexture name="butterleft0004" x="1280" y="640" width="640" height="640" frameX="-3" frameY="0" frameWidth="643" frameHeight="641"/>
+	<SubTexture name="butterleft0005" x="1280" y="640" width="640" height="640" frameX="-3" frameY="0" frameWidth="643" frameHeight="641"/>
+	<SubTexture name="butterleft0006" x="1280" y="640" width="640" height="640" frameX="-3" frameY="0" frameWidth="643" frameHeight="641"/>
+	<SubTexture name="butterleft0007" x="1280" y="640" width="640" height="640" frameX="-3" frameY="0" frameWidth="643" frameHeight="641"/>
+	<SubTexture name="butterright0000" x="1920" y="640" width="640" height="640" frameX="-1" frameY="0" frameWidth="641" frameHeight="640"/>
+	<SubTexture name="butterright0001" x="1920" y="640" width="640" height="640" frameX="-1" frameY="0" frameWidth="641" frameHeight="640"/>
+	<SubTexture name="butterright0002" x="2560" y="640" width="640" height="640" frameX="-1" frameY="0" frameWidth="641" frameHeight="640"/>
+	<SubTexture name="butterright0003" x="2560" y="640" width="640" height="640" frameX="-1" frameY="0" frameWidth="641" frameHeight="640"/>
+	<SubTexture name="butterright0004" x="3200" y="640" width="640" height="640" frameX="0" frameY="0" frameWidth="641" frameHeight="640"/>
+	<SubTexture name="butterright0005" x="3200" y="640" width="640" height="640" frameX="0" frameY="0" frameWidth="641" frameHeight="640"/>
+	<SubTexture name="butterright0006" x="3200" y="640" width="640" height="640" frameX="0" frameY="0" frameWidth="641" frameHeight="640"/>
+	<SubTexture name="butterright0007" x="3200" y="640" width="640" height="640" frameX="0" frameY="0" frameWidth="641" frameHeight="640"/>
+	<SubTexture name="butterup0000" x="0" y="1280" width="640" height="640" frameX="-1" frameY="0" frameWidth="641" frameHeight="642"/>
+	<SubTexture name="butterup0001" x="0" y="1280" width="640" height="640" frameX="-1" frameY="0" frameWidth="641" frameHeight="642"/>
+	<SubTexture name="butterup0002" x="640" y="1280" width="640" height="640" frameX="-1" frameY="-1" frameWidth="641" frameHeight="642"/>
+	<SubTexture name="butterup0003" x="640" y="1280" width="640" height="640" frameX="-1" frameY="-1" frameWidth="641" frameHeight="642"/>
+	<SubTexture name="butterup0004" x="1280" y="1280" width="640" height="640" frameX="0" frameY="0" frameWidth="641" frameHeight="642"/>
+	<SubTexture name="butterup0005" x="1280" y="1280" width="640" height="640" frameX="0" frameY="0" frameWidth="641" frameHeight="642"/>
+	<SubTexture name="butterup0006" x="1920" y="1280" width="640" height="640" frameX="-1" frameY="-2" frameWidth="641" frameHeight="642"/>
+	<SubTexture name="butterup0007" x="1920" y="1280" width="640" height="640" frameX="-1" frameY="-2" frameWidth="641" frameHeight="642"/>
+	<SubTexture name="idlebamb0000" x="2560" y="1280" width="755" height="688" frameX="0" frameY="-2" frameWidth="755" frameHeight="693"/>
+	<SubTexture name="idlebamb0001" x="2560" y="1280" width="755" height="688" frameX="0" frameY="-2" frameWidth="755" frameHeight="693"/>
+	<SubTexture name="idlebamb0002" x="3315" y="1280" width="755" height="688" frameX="0" frameY="-5" frameWidth="755" frameHeight="693"/>
+	<SubTexture name="idlebamb0003" x="3315" y="1280" width="755" height="688" frameX="0" frameY="-5" frameWidth="755" frameHeight="693"/>
+	<SubTexture name="idlebamb0004" x="0" y="1968" width="755" height="688" frameX="0" frameY="-5" frameWidth="755" frameHeight="693"/>
+	<SubTexture name="idlebamb0005" x="0" y="1968" width="755" height="688" frameX="0" frameY="-5" frameWidth="755" frameHeight="693"/>
+	<SubTexture name="idlebamb0006" x="755" y="1968" width="755" height="688" frameX="0" frameY="-5" frameWidth="755" frameHeight="693"/>
+	<SubTexture name="idlebamb0007" x="755" y="1968" width="755" height="688" frameX="0" frameY="-5" frameWidth="755" frameHeight="693"/>
+	<SubTexture name="idlebamb0008" x="1510" y="1968" width="755" height="688" frameX="0" frameY="0" frameWidth="755" frameHeight="693"/>
+	<SubTexture name="idlebamb0009" x="1510" y="1968" width="755" height="688" frameX="0" frameY="0" frameWidth="755" frameHeight="693"/>
+</TextureAtlas>

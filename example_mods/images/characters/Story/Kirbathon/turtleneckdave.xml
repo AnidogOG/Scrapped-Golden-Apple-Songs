@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="turtleneckdave.png"><SubTexture name="turtleneckdave idle0000" x="0" y="0" width="789" height="619" frameX="0" frameY="0" frameWidth="789" frameHeight="619" />
+<SubTexture name="turtleneckdave down0000" x="789" y="0" width="1073" height="693" frameX="0" frameY="0" frameWidth="1073" frameHeight="693" />
+<SubTexture name="turtleneckdave down0001" x="1862" y="0" width="1073" height="693" frameX="0" frameY="0" frameWidth="1073" frameHeight="693" />
+<SubTexture name="turtleneckdave down0002" x="0" y="693" width="1073" height="693" frameX="0" frameY="0" frameWidth="1073" frameHeight="693" />
+<SubTexture name="turtleneckdave left0000" x="1073" y="693" width="625" height="582" frameX="0" frameY="0" frameWidth="625" frameHeight="582" />
+<SubTexture name="turtleneckdave left0001" x="1698" y="693" width="625" height="582" frameX="0" frameY="0" frameWidth="625" frameHeight="582" />
+<SubTexture name="turtleneckdave left0002" x="0" y="1386" width="625" height="582" frameX="0" frameY="0" frameWidth="625" frameHeight="582" />
+<SubTexture name="turtleneckdave right0000" x="625" y="1386" width="660" height="568" frameX="0" frameY="0" frameWidth="660" frameHeight="568" />
+<SubTexture name="turtleneckdave right0001" x="1285" y="1386" width="660" height="568" frameX="0" frameY="0" frameWidth="660" frameHeight="568" />
+<SubTexture name="turtleneckdave right0002" x="0" y="1968" width="660" height="568" frameX="0" frameY="0" frameWidth="660" frameHeight="568" />
+<SubTexture name="turtleneckdave up0000" x="660" y="1968" width="655" height="641" frameX="0" frameY="0" frameWidth="655" frameHeight="641" />
+<SubTexture name="turtleneckdave up0001" x="1315" y="1968" width="655" height="641" frameX="0" frameY="0" frameWidth="655" frameHeight="641" />
+<SubTexture name="turtleneckdave up0002" x="0" y="2609" width="655" height="641" frameX="0" frameY="0" frameWidth="655" frameHeight="641" />
+</TextureAtlas>

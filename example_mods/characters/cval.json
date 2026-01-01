@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				426,
+				340
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Cval Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				222,
+				313
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Cval Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				421,
+				317
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Cval Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				250
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Cval Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				200
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Cval Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				180
+			],
+			"anim": "hehe",
+			"fps": 24,
+			"name": "Cval teehee",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				180
+			],
+			"anim": "haha",
+			"fps": 24,
+			"name": "Cval mwahaha",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/extras/Cval_lol",
+	"position": [
+		20,
+		320
+	],
+	"healthicon": "extras/cval",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		120,
+		255
+	],
+	"camera_position": [
+		-270,
+		-260
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

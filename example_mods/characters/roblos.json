@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Roblox dave Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				157,
+				13
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Roblox dave note left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				68,
+				202
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Roblox dave note down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				78
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Roblox dave note up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-82,
+				71
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Roblox dave note right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/iykyk/roblox_dave_sprites",
+	"position": [
+		-20,
+		180
+	],
+	"healthicon": "iykyk/roblos",
+	"flip_x": false,
+	"healthbar_colors": [
+		61,
+		64,
+		254
+	],
+	"camera_position": [
+		40,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

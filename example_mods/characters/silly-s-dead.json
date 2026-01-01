@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "silly_die_start"
+		},
+		{
+			"offsets": [-17, 0],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "silly_die_loop"
+		},
+		{
+			"offsets": [-17, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "silly_die_loop"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/peanut paywall/stubborn/sillydeath",
+	"position": [-140, 240],
+	"healthicon": "peanut paywall/silly",
+	"flip_x": true,
+	"healthbar_colors": [109, 255, 76],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

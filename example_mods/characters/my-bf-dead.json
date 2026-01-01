@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"offsets": [55, 178],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "die"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "loopdie"
+		},
+		{
+			"loop": false,
+			"offsets": [-23, 2],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "hey",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/secret/my dave/my-bf-DIE",
+	"position": [20, 400],
+	"healthicon": "secret/mybf",
+	"flip_x": true,
+	"healthbar_colors": [1, 179, 254],
+	"camera_position": [-160, -300],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

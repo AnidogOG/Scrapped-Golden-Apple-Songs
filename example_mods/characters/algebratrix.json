@@ -1,0 +1,71 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		},
+		{
+			"offsets": [275, -107],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [-6, -37],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [98, 289],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [13, -133],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [-37, -124],
+			"anim": "laughOne",
+			"fps": 24,
+			"name": "BOO",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [37, 24],
+			"anim": "laughTwo",
+			"fps": 24,
+			"name": "HAH",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/covers/trouble/Algebraicaitrix",
+	"position": [-270, -60],
+	"healthicon": "covers/alge",
+	"flip_x": false,
+	"healthbar_colors": [68, 48, 149],
+	"camera_position": [330, 160],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

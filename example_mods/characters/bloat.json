@@ -1,0 +1,23 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/iykyk/bloat",
+	"position": [-60, 340],
+	"healthicon": "iykyk/bloat",
+	"flip_x": false,
+	"healthbar_colors": [123, 90, 66],
+	"camera_position": [120, -20],
+	"sing_duration": 4,
+	"scale": 1.2,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-80, -266],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-9, -164],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-49, -200],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-40, -200],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [9, -214],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [-33, -201],
+			"loop": true,
+			"fps": 24,
+			"anim": "i have a pizza",
+			"indices": [],
+			"name": "ihaveapizza"
+		},
+		{
+			"loop": true,
+			"offsets": [-33, -201],
+			"anim": "im going to eat it",
+			"fps": 24,
+			"name": "imgoingtoeatit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [55, -208],
+			"anim": "eating",
+			"fps": 24,
+			"name": "eating",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [95, -208],
+			"anim": "oh ok",
+			"fps": 24,
+			"name": "ohok",
+			"indices": []
+		},
+		{
+			"offsets": [55, -208],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey you cant eat that",
+			"loop": true,
+			"name": "youcanteat"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/peanut paywall/pizzamania/tabbickpizza",
+	"position": [40, -60],
+	"healthicon": "peanut paywall/tabbi",
+	"flip_x": false,
+	"healthbar_colors": [255, 15, 91],
+	"camera_position": [20, 240],
+	"sing_duration": 6.1,
+	"scale": 1.8,
+	"_editor_isPlayer": false
+}

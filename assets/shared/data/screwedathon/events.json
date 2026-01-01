@@ -1,0 +1,86 @@
+{
+	"events": [
+		[
+			37161.2903225807,
+			[
+				["Change Character", "dad", "3dscrewed"],
+				["Flash Camera", "1", ""]
+			]
+		],
+		[
+			61935.4838709678,
+			[
+				["Change Character", "dad", "dave-screwed"],
+				["Flash Camera", "1", ""]
+			]
+		],
+		[
+			116792.626728111,
+			[
+				["Change Character", "dad", "dingle-screwed"],
+				["Flash Camera", "1", ""]
+			]
+		],
+		[
+			154074.180126169,
+			[
+				["Change Character", "dad", "indie-screwed"],
+				["Flash Camera", "1", ""]
+			]
+		],
+		[
+			208931.322983311,
+			[
+				["Change Character", "dad", "expunged-screwed"],
+				["Flash Camera Black", "5", ""]
+			]
+		],
+		[
+			258479.710080085,
+			[
+				["Change Character", "dad", "amen-drums"],
+				["Flash Camera", "1", ""]
+			]
+		],
+		[
+			283253.903628472,
+			[
+				["Change Character", "dad", "screwed.exe"],
+				["Flash Camera", "1", ""]
+			]
+		],
+		[
+			417653.903628472,
+			[
+				["Change Character", "dad", "bambiMad"]
+			]
+		],
+		[
+			424053.903628472,
+			[
+				["Change Character", "dad", "stoney-screwed"]
+			]
+		],
+		[
+			475253.903628472,
+			[
+				["Change Character", "dad", "scary-screwed"],
+				["Flash Camera", "1", ""]
+			]
+		],
+		[
+			512415.193951052,
+			[
+				["Change Character", "dad", "screwed-pro"],
+				["Flash Camera Black", "3", ""]
+			]
+		],
+		[
+			579615.193951052,
+			[
+				["Change Character", "dad", "amen-drums"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="redhungy.png">
+<SubTexture name="redhungy idle0000" x="306" y="307" width="158" height="222" frameX="-80" frameY="-103" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy idle0001" x="960" y="428" width="162" height="180" frameX="-79" frameY="-144" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy idle0002" x="237" y="982" width="200" height="127" frameX="-57" frameY="-188" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy idle0003" x="658" y="982" width="239" height="126" frameX="-45" frameY="-194" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy idle0004" x="0" y="1115" width="278" height="111" frameX="-35" frameY="-201" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy right0000" x="355" y="777" width="285" height="149" frameX="-68" frameY="-165" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy right0001" x="0" y="982" width="237" height="133" frameX="-82" frameY="-172" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy right0002" x="640" y="777" width="225" height="139" frameX="-80" frameY="-169" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy right0003" x="865" y="777" width="221" height="138" frameX="-81" frameY="-170" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy left0000" x="0" y="0" width="130" height="307" frameX="-38" frameY="-19" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy left0001" x="130" y="0" width="145" height="268" frameX="-38" frameY="-40" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy left0002" x="495" y="0" width="129" height="260" frameX="-56" frameY="-45" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy left0003" x="0" y="307" width="125" height="256" frameX="-60" frameY="-48" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy up0000" x="275" y="0" width="220" height="264" frameX="-82" frameY="-6" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy up0001" x="125" y="307" width="181" height="225" frameX="-109" frameY="-32" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy up0002" x="0" y="777" width="178" height="205" frameX="-113" frameY="-31" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy up0003" x="178" y="777" width="177" height="204" frameX="-114" frameY="-32" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy down0000" x="278" y="1115" width="291" height="88" frameX="-46" frameY="-254" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy down0001" x="437" y="982" width="221" height="127" frameX="-67" frameY="-212" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy down0002" x="1128" y="0" width="214" height="121" frameX="-69" frameY="-215" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy down0003" x="897" y="982" width="203" height="122" frameX="-74" frameY="-215" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy inneridle0000" x="624" y="0" width="168" height="214" frameX="-114" frameY="-95" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy inneridle0001" x="624" y="214" width="168" height="214" frameX="-114" frameY="-95" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy inneridle0002" x="0" y="563" width="168" height="214" frameX="-114" frameY="-95" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy innerright0000" x="168" y="563" width="168" height="214" frameX="-114" frameY="-95" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy innerright0001" x="336" y="563" width="168" height="214" frameX="-114" frameY="-95" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy innerleft0000" x="504" y="563" width="168" height="214" frameX="-114" frameY="-95" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy innerleft0001" x="792" y="0" width="168" height="214" frameX="-114" frameY="-95" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy innerup0000" x="792" y="214" width="168" height="214" frameX="-114" frameY="-95" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy innerup0001" x="792" y="428" width="168" height="214" frameX="-114" frameY="-95" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy innerdown0000" x="960" y="0" width="168" height="214" frameX="-114" frameY="-95" frameWidth="400" frameHeight="400" />
+<SubTexture name="redhungy innerdown0001" x="960" y="214" width="168" height="214" frameX="-114" frameY="-95" frameWidth="400" frameHeight="400" />
+</TextureAtlas>

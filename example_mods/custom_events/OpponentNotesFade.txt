@@ -1,0 +1,4 @@
+fades in/out the opponents notes
+
+v1 = How long it takes to fade.
+v2 = Alpha to fade to.

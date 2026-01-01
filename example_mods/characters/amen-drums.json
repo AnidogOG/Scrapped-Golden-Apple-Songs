@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "AMEN amen bamb",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [41, -17],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "AMEN left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [1, 1],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "AMEN down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, 1],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "AMEN up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [11, -5],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "AMEN right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/joke/screwedathon/AMEN",
+	"position": [-740, -480],
+	"healthicon": "joke/screwedathon/break",
+	"flip_x": false,
+	"healthbar_colors": [255, 255, 255],
+	"camera_position": [700, 760],
+	"sing_duration": 4,
+	"scale": 0.3,
+	"_editor_isPlayer": false
+}

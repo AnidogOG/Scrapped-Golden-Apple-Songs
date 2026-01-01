@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"offsets": [348, -324],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "die0"
+		},
+		{
+			"offsets": [337, -567],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "die loop"
+		},
+		{
+			"offsets": [372, -516],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "die confirm"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/secret/squashathon/purple",
+	"position": [-20, 100],
+	"healthicon": "secret/ruby-anthro",
+	"flip_x": true,
+	"healthbar_colors": [154, 36, 208],
+	"camera_position": [-350, 300],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Fat bambi Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [128, -34],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Fat bambi note down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [82, 158],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Fat bambi note up",
+			"indices": []
+		},
+		{
+			"offsets": [187, 31],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Fat bambi note right"
+		},
+		{
+			"offsets": [-26, 38],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Fat bambi note left"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/iykyk/curveball/faty",
+	"position": [80, 360],
+	"healthicon": "iykyk/faty",
+	"flip_x": false,
+	"healthbar_colors": [1, 254, 23],
+	"camera_position": [140, -20],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

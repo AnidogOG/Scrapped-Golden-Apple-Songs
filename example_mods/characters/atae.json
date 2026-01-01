@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 18,
+			"anim": "idle",
+			"indices": [],
+			"name": "atae idle"
+		},
+		{
+			"offsets": [-20, -10],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "atae left"
+		},
+		{
+			"offsets": [6, 120],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "atae down"
+		},
+		{
+			"offsets": [10, 72],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "atae up"
+		},
+		{
+			"offsets": [100, 150],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "atae right"
+		},
+		{
+			"offsets": [60, 23],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "atae glitch l"
+		},
+		{
+			"offsets": [20, -51],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "atae glitch d"
+		},
+		{
+			"offsets": [2, 118],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "atae glitch u"
+		},
+		{
+			"offsets": [6, 90],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "atae glitch r"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/extras/ataefull/atae",
+	"position": [-380, -80],
+	"healthicon": "extras/atae",
+	"flip_x": false,
+	"healthbar_colors": [81, 17, 11],
+	"camera_position": [140, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

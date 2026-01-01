@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "rev idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rev left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-120,
+				-46
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "rev down"
+		},
+		{
+			"offsets": [
+				50,
+				-36
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "rev up"
+		},
+		{
+			"offsets": [
+				-86,
+				-24
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "rev right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/extras/ataefull/rev",
+	"position": [
+		-860,
+		-120
+	],
+	"healthicon": "extras/rev",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		155,
+		134
+	],
+	"camera_position": [
+		160,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

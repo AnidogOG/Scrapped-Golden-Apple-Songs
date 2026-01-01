@@ -1,0 +1,145 @@
+{
+	"player1": "garrett-middle",
+	"player2": "nobody",
+	"notes": [
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[161.290322580645, 3, 0],
+				[322.58064516129, 2, 0],
+				[483.870967741935, 3, 0],
+				[645.161290322581, 1, 0],
+				[685.483870967742, 0, 0],
+				[806.451612903226, 3, 161.290322580645],
+				[1129.03225806452, 2, 322.58064516129]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[1451.61290322581, 0, 0],
+				[1612.90322580645, 1, 0],
+				[1774.1935483871, 0, 0],
+				[1935.48387096774, 3, 322.58064516129],
+				[2258.06451612903, 0, 322.58064516129]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[2741.93548387097, 2, 0],
+				[2903.22580645161, 3, 0],
+				[3064.51612903226, 1, 0],
+				[3225.8064516129, 0, 0],
+				[3266.12903225806, 2, 0],
+				[3387.09677419355, 0, 161.290322580645],
+				[3709.67741935484, 1, 322.58064516129]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[4032.25806451613, 3, 0],
+				[4193.54838709677, 2, 0],
+				[4354.83870967742, 3, 0],
+				[4516.12903225806, 0, 322.58064516129],
+				[4838.70967741936, 1, 322.58064516129]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[5322.58064516129, 3, 0],
+				[5483.87096774194, 2, 0],
+				[5645.16129032258, 3, 0],
+				[5806.45161290323, 1, 0],
+				[5846.77419354839, 0, 0],
+				[5967.74193548387, 3, 161.290322580645],
+				[6290.32258064516, 2, 322.58064516129]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[6612.90322580645, 0, 0],
+				[6774.1935483871, 1, 0],
+				[6935.48387096774, 0, 0],
+				[7096.77419354839, 3, 322.58064516129],
+				[7419.35483870968, 0, 322.58064516129]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[7903.22580645161, 2, 0],
+				[8064.51612903226, 3, 0],
+				[8225.8064516129, 1, 0],
+				[8387.09677419355, 0, 0],
+				[8427.41935483871, 2, 0],
+				[8548.38709677419, 0, 161.290322580645],
+				[8870.96774193548, 1, 322.58064516129]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [
+				[9193.54838709677, 3, 0],
+				[9354.83870967742, 2, 0],
+				[9516.12903225806, 3, 0],
+				[9677.41935483871, 0, 322.58064516129],
+				[10000, 1, 322.58064516129]
+			],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"mustHitSection": true
+		},
+		{
+			"sectionBeats": 4,
+			"sectionNotes": [],
+			"gfSection": false,
+			"altAnim": false,
+			"mustHitSection": true,
+			"changeBPM": false,
+			"bpm": 186
+		}
+	],
+	"player3": null,
+	"disableNoteRGB": true,
+	"splashSkin": "noteSplashes/noteSplashesOG",
+	"song": "Jumpman25's Discord Server",
+	"validScore": true,
+	"arrowSkin": "noteSkins/NOTE_assets_3D",
+	"format": "psych_v1_convert",
+	"speed": 2.9,
+	"gfVersion": "no-gf",
+	"events": [],
+	"gameOverChar": "bf-3d-dead",
+	"needsVoices": true,
+	"stage": "Garrett School",
+	"bpm": 186
+}

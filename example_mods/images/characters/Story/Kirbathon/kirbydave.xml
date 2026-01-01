@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="kirbydave.png"><SubTexture name="kirbydave idle0000" x="0" y="0" width="551" height="446" frameX="0" frameY="0" frameWidth="551" frameHeight="446" />
+<SubTexture name="kirbydave up0000" x="551" y="0" width="551" height="446" frameX="0" frameY="0" frameWidth="551" frameHeight="446" />
+<SubTexture name="kirbydave up0001" x="1102" y="0" width="551" height="446" frameX="0" frameY="0" frameWidth="551" frameHeight="446" />
+<SubTexture name="kirbydave up0002" x="0" y="446" width="551" height="446" frameX="0" frameY="0" frameWidth="551" frameHeight="446" />
+<SubTexture name="kirbydave down0000" x="551" y="446" width="551" height="446" frameX="0" frameY="0" frameWidth="551" frameHeight="446" />
+<SubTexture name="kirbydave down0001" x="1102" y="446" width="551" height="446" frameX="0" frameY="0" frameWidth="551" frameHeight="446" />
+<SubTexture name="kirbydave down0002" x="0" y="892" width="551" height="446" frameX="0" frameY="0" frameWidth="551" frameHeight="446" />
+<SubTexture name="kirbydave left0000" x="551" y="892" width="551" height="446" frameX="0" frameY="0" frameWidth="551" frameHeight="446" />
+<SubTexture name="kirbydave left0001" x="1102" y="892" width="551" height="446" frameX="0" frameY="0" frameWidth="551" frameHeight="446" />
+<SubTexture name="kirbydave left0002" x="0" y="1338" width="551" height="446" frameX="0" frameY="0" frameWidth="551" frameHeight="446" />
+<SubTexture name="kirbydave right0000" x="551" y="1338" width="551" height="446" frameX="0" frameY="0" frameWidth="551" frameHeight="446" />
+<SubTexture name="kirbydave right0001" x="1102" y="1338" width="551" height="446" frameX="0" frameY="0" frameWidth="551" frameHeight="446" />
+<SubTexture name="kirbydave right0002" x="0" y="1784" width="551" height="446" frameX="0" frameY="0" frameWidth="551" frameHeight="446" />
+</TextureAtlas>

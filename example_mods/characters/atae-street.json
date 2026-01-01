@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [49, -12],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ataespeed left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-350, -315],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ataespeed down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [217, 53],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ataespeed up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [113, -2],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ataespeed right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [171, 209],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "ataespeed glitch",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [171, 209],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "ataespeed glitch",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [171, 209],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "ataespeed glitch",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [171, 209],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "ataespeed glitch",
+			"indices": []
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 18,
+			"anim": "idle",
+			"loop": true,
+			"name": "ataespeed idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/extras/ataefull/ataespeed",
+	"position": [-540, -300],
+	"healthicon": "extras/atae",
+	"flip_x": false,
+	"healthbar_colors": [81, 17, 11],
+	"camera_position": [160, 80],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

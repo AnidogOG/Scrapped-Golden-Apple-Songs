@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "indie screwed idle"
+		},
+		{
+			"offsets": [217, -175],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "indie screwed left"
+		},
+		{
+			"offsets": [10, -183],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "indie screwed down"
+		},
+		{
+			"offsets": [-185, -96],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "indie screwed up"
+		},
+		{
+			"offsets": [-99, -28],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "indie screwed right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/joke/screwedathon/indie_screwed",
+	"position": [-700, -260],
+	"healthicon": "joke/screwedathon/indiecross",
+	"flip_x": false,
+	"healthbar_colors": [255, 255, 255],
+	"camera_position": [0, 240],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BlogIdle"
+		},
+		{
+			"offsets": [
+				152,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BlogLeft"
+		},
+		{
+			"offsets": [
+				-49,
+				-61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BlogDown"
+		},
+		{
+			"offsets": [
+				47,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BlogUp"
+		},
+		{
+			"offsets": [
+				-58,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BlogRight"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/oc/blogblez-new",
+	"position": [
+		-60,
+		-140
+	],
+	"healthicon": "oc/blogblez-new",
+	"flip_x": false,
+	"healthbar_colors": [
+		72,
+		72,
+		182
+	],
+	"camera_position": [
+		80,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,31 @@
+{
+	"events": [
+		[
+			35500,
+			[
+				["Play Animation", "hey", "dad"]
+			]
+		],
+		[
+			43500,
+			[
+				["Play Animation", "hey", "bf"]
+			]
+		],
+		[
+			100000,
+			[
+				["Flash Camera Big", "1", ""]
+			]
+		],
+		[
+			103000,
+			[
+				["Flash Camera Big", "1", ""],
+				["Change Character", "gf", "glomgrajbi"],
+				["Change Character", "dad", "glog-duo"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

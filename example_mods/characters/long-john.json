@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "longnosejohn idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "longnosejohn left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "longnosejohn down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "longnosejohn up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "longnosejohn right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/joke/scraped/Long_John",
+	"position": [
+		-780,
+		-180
+	],
+	"healthicon": "joke/long-john",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		127,
+		14
+	],
+	"camera_position": [
+		100,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

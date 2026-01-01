@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Flaw dave danceLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [283, 13],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Flaw dave danceRight",
+			"indices": []
+		},
+		{
+			"offsets": [31, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "join",
+			"indices": [],
+			"name": "Flaw dave joins"
+		},
+		{
+			"offsets": [-13, -1],
+			"loop": false,
+			"fps": 24,
+			"anim": "talk",
+			"indices": [],
+			"name": "Flaw dave talks"
+		},
+		{
+			"offsets": [-36, -1],
+			"loop": false,
+			"fps": 24,
+			"anim": "sad talk",
+			"indices": [],
+			"name": "Flaw dave sad talk"
+		},
+		{
+			"offsets": [68, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "sad bye",
+			"indices": [],
+			"name": "Flaw dave Sadbye"
+		},
+		{
+			"offsets": [68, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "sad bye talk",
+			"indices": [],
+			"name": "Flaw dave Sadbye talk"
+		},
+		{
+			"offsets": [-13, -1],
+			"indices": [0],
+			"fps": 24,
+			"anim": "-talk",
+			"loop": false,
+			"name": "Flaw dave talks"
+		},
+		{
+			"offsets": [-36, -1],
+			"indices": [0],
+			"fps": 24,
+			"anim": "-sadTalk",
+			"loop": false,
+			"name": "Flaw dave sad talk"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [0],
+			"fps": 24,
+			"anim": "-sadBye",
+			"loop": false,
+			"name": "Flaw dave Sadbye"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/IYKYK/Flawless/Flaw_Dave_sprites",
+	"position": [80, -60],
+	"healthicon": "story/og-dave",
+	"flip_x": false,
+	"healthbar_colors": [137, 247, 255],
+	"camera_position": [120, 0],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,9 @@
+{
+	"directory": "unhinged",
+	"defaultZoom": 0.6,
+	"isPixelStage": false,
+
+	"boyfriend": [1300, 970],
+	"girlfriend": [1200, 950],
+	"opponent": [300, 1000]
+}

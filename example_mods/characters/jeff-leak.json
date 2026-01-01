@@ -1,0 +1,23 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/iykyk/apple leak/LeakJeff",
+	"position": [-130, 20],
+	"healthicon": "iykyk/gary-awful",
+	"flip_x": false,
+	"healthbar_colors": [10, 212, 74],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 0.7,
+	"_editor_isPlayer": false
+}

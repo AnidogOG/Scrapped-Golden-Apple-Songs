@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [37, 6],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "firstDeath",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [58, 45],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "deathConfirm",
+			"indices": []
+		},
+		{
+			"offsets": [38, -1],
+			"loop": true,
+			"fps": 20,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "deathLoop"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/iykyk/Workaround/guestDeath",
+	"position": [0, 320],
+	"healthicon": "iykyk/guest",
+	"flip_x": true,
+	"healthbar_colors": [104, 78, 104],
+	"camera_position": [0, -20],
+	"sing_duration": 5,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

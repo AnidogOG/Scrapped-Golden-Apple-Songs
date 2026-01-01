@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Fox idle",
+			"indices": []
+		},
+		{
+			"offsets": [218, -116],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Fox note left"
+		},
+		{
+			"offsets": [-116, -157],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Fox note down"
+		},
+		{
+			"offsets": [-111, 166],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Fox note up"
+		},
+		{
+			"offsets": [-203, -155],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Fox note right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/iykyk/curveball/Fox_Sprites",
+	"position": [-300, -260],
+	"healthicon": "iykyk/foxs",
+	"flip_x": false,
+	"healthbar_colors": [244, 248, 244],
+	"camera_position": [40, 280],
+	"sing_duration": 4,
+	"scale": 0.9,
+	"_editor_isPlayer": false
+}

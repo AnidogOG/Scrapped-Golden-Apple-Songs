@@ -1,0 +1,139 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "redhungy idle",
+			"indices": [
+				4,
+				3,
+				2,
+				1,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "redhungy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "redhungy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-150
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "redhungy up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-40
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "redhungy right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-30
+			],
+			"anim": "idle-alt",
+			"fps": 12,
+			"name": "redhungy inneridle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-30
+			],
+			"anim": "singLEFT-alt",
+			"fps": 12,
+			"name": "redhungy innerleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-30
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 12,
+			"name": "redhungy innerright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-30
+			],
+			"anim": "singUP-alt",
+			"fps": 12,
+			"name": "redhungy innerup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-30
+			],
+			"anim": "singDOWN-alt",
+			"fps": 12,
+			"name": "redhungy innerdown",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/iykyk/apple leak/redhungy",
+	"position": [
+		190,
+		320
+	],
+	"healthicon": "iykyk/redhungy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-240,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

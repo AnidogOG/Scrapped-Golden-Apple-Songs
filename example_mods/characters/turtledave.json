@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [-30, -120],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "turtleneckdave idle"
+		},
+		{
+			"offsets": [-70, -147],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "turtleneckdave left"
+		},
+		{
+			"offsets": [37, -120],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "turtleneckdave down"
+		},
+		{
+			"offsets": [-37, -104],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "turtleneckdave up"
+		},
+		{
+			"offsets": [-48, -147],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "turtleneckdave right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/story/kirbathon/turtleneckdave",
+	"position": [-240, 130],
+	"healthicon": "story/turtledave",
+	"flip_x": false,
+	"healthbar_colors": [170, 170, 255],
+	"camera_position": [130, 180],
+	"sing_duration": 6.1,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}

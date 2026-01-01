@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "cakebiIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "cakebiRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "cakebiDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "cakebiUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "cakebiLeft",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/iykyk/curveball/cakebiAssets",
+	"position": [
+		-270,
+		60
+	],
+	"healthicon": "iykyk/cakebi-cb",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		51,
+		0
+	],
+	"camera_position": [
+		110,
+		230
+	],
+	"sing_duration": 4,
+	"scale": 0.15,
+	"_editor_isPlayer": true
+}

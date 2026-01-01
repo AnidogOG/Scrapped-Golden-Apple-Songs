@@ -1,0 +1,11 @@
+function onUpdate()
+	noteTweenX('opponent1', 0, -300, 0.1, 'linear')
+	noteTweenX('opponent2', 1, -300, 0.1, 'linear')
+	noteTweenX('opponent3', 2, -300, 0.1, 'linear')
+	noteTweenX('opponent4', 3, -300, 0.1, 'linear')
+	noteTweenX('player1', 4, 400, 0.1, 'linear')
+	noteTweenX('player2', 5, 510, 0.1, 'linear')
+	noteTweenX('player3', 6, 620, 0.1, 'linear')
+	noteTweenX('player4', 7, 730, 0.1, 'linear')
+end
+	

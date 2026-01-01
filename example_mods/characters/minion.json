@@ -1,0 +1,71 @@
+{
+	"animations": [
+		{
+			"offsets": [-5, 1],
+			"loop": false,
+			"fps": 24,
+			"anim": "dance-start",
+			"indices": [],
+			"name": "start-dance"
+		},
+		{
+			"offsets": [-9, -6],
+			"loop": true,
+			"fps": 24,
+			"anim": "dance",
+			"indices": [],
+			"name": "dancing"
+		},
+		{
+			"offsets": [3, -2],
+			"loop": false,
+			"fps": 24,
+			"anim": "dance-end",
+			"indices": [],
+			"name": "end-dance"
+		},
+		{
+			"offsets": [1, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "danceLeft"
+		},
+		{
+			"offsets": [-5, -1],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "danceRight"
+		},
+		{
+			"loop": false,
+			"offsets": [-76, -112],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "dead",
+			"indices": []
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-dance",
+			"loop": true,
+			"name": "dancing"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/oc/speedo/minion_bambi_gf",
+	"position": [-40, 260],
+	"healthicon": "oc/swimhead",
+	"flip_x": false,
+	"healthbar_colors": [125, 200, 133],
+	"camera_position": [40, 0],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "seek_idle",
+			"indices": []
+		},
+		{
+			"offsets": [69, -19],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "seek_left"
+		},
+		{
+			"offsets": [111, -191],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "seek_down"
+		},
+		{
+			"offsets": [-54, 58],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "seek_up"
+		},
+		{
+			"offsets": [35, -37],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "seek_right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/peanut paywall/stubborn/seek",
+	"position": [-80, -80],
+	"healthicon": "peanut paywall/seek",
+	"flip_x": false,
+	"healthbar_colors": [92, 92, 92],
+	"camera_position": [0, 120],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

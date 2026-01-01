@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_jambino v3.png">
+	<!-- Created with Adobe Animate version 24.0.12.3 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="jambino v3 idle0000" x="0" y="0" width="613" height="150"/>
+	<SubTexture name="jambino v3 idle0001" x="0" y="0" width="613" height="150"/>
+	<SubTexture name="jambino v3 idle0002" x="0" y="0" width="613" height="150"/>
+	<SubTexture name="jambino v3 idle0003" x="613" y="0" width="613" height="150"/>
+	<SubTexture name="jambino v3 idle0004" x="613" y="0" width="613" height="150"/>
+	<SubTexture name="jambino v3 idle0005" x="613" y="0" width="613" height="150"/>
+	<SubTexture name="jambino v3 idle0006" x="1226" y="0" width="612" height="150" frameX="0" frameY="0" frameWidth="613" frameHeight="150"/>
+	<SubTexture name="jambino v3 idle0007" x="1226" y="0" width="612" height="150" frameX="0" frameY="0" frameWidth="613" frameHeight="150"/>
+	<SubTexture name="jambino v3 idle0008" x="1226" y="0" width="612" height="150" frameX="0" frameY="0" frameWidth="613" frameHeight="150"/>
+	<SubTexture name="jambino v3 selected0000" x="0" y="150" width="830" height="212" frameX="0" frameY="-2" frameWidth="830" frameHeight="215"/>
+	<SubTexture name="jambino v3 selected0001" x="830" y="150" width="829" height="213" frameX="-1" frameY="-1" frameWidth="830" frameHeight="215"/>
+	<SubTexture name="jambino v3 selected0002" x="0" y="363" width="824" height="215" frameX="-6" frameY="0" frameWidth="830" frameHeight="215"/>
+</TextureAtlas>

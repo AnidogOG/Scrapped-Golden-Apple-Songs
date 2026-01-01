@@ -1,0 +1,4 @@
+SWAP HOTDOG SPRITES WITH ANOTHER
+
+Value 1: Variable name of hotdog sprite to remove
+Value 2: Variable name of hotdog sprite to add (must match yard.lua)

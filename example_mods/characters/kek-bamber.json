@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BAMBI_IDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				66,
+				12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BAMBI_LEFT"
+		},
+		{
+			"offsets": [
+				-10,
+				-169
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "BAMBI_DOWN"
+		},
+		{
+			"offsets": [
+				55,
+				80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "BAMBI_UP"
+		},
+		{
+			"offsets": [
+				-42,
+				28
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BAMBI_RIGHT"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/extras/bambi_farter",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "extras/kekker",
+	"flip_x": false,
+	"healthbar_colors": [
+		179,
+		179,
+		179
+	],
+	"camera_position": [
+		60,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

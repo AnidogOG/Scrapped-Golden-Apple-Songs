@@ -1,0 +1,4 @@
+fades in an image out of the HUD camera
+
+v1 = image name
+v2 = time to disappear fully

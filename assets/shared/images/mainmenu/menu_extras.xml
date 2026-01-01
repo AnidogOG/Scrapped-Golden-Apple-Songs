@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_extras.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="extras idle0000" x="422" y="156" width="354" height="120"/>
+	<SubTexture name="extras idle0001" x="422" y="156" width="354" height="120"/>
+	<SubTexture name="extras idle0002" x="422" y="156" width="354" height="120"/>
+	<SubTexture name="extras idle0003" x="422" y="286" width="354" height="120"/>
+	<SubTexture name="extras idle0004" x="422" y="286" width="354" height="120"/>
+	<SubTexture name="extras idle0005" x="422" y="286" width="354" height="120"/>
+	<SubTexture name="extras idle0006" x="10" y="302" width="354" height="120"/>
+	<SubTexture name="extras idle0007" x="10" y="302" width="354" height="120"/>
+	<SubTexture name="extras idle0008" x="10" y="302" width="354" height="120"/>
+	<SubTexture name="extras selected0000" x="10" y="10" width="402" height="136"/>
+	<SubTexture name="extras selected0001" x="422" y="10" width="402" height="136"/>
+	<SubTexture name="extras selected0002" x="10" y="156" width="402" height="136"/>
+</TextureAtlas>

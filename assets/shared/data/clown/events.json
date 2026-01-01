@@ -1,0 +1,86 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"z",
+						"1",
+						"106.67"
+					]
+				]
+			],
+			[
+				105797.101449275,
+				[
+					[
+						"Play Animation",
+						"huh",
+						"2"
+					]
+				]
+			],
+			[
+				106086.956521739,
+				[
+					[
+						"Camera Follow Pos",
+						"110",
+						"-120"
+					]
+				]
+			],
+			[
+				106666.666666667,
+				[
+					[
+						"Change Character",
+						"2",
+						"austin"
+					],
+					[
+						"z",
+						"2",
+						"111.3"
+					],
+					[
+						"swapHotdogs",
+						"hotdogs_uncooked",
+						"hotdogs_cooked"
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				186666.666666667,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0"
+					]
+				]
+			],
+			[
+				217971.014492754,
+				[
+					[
+						"z - Copy",
+						"3",
+						"106.67"
+					],
+					[
+						"swapHotdogs",
+						"hotdogs_cooked",
+						"hotdogs_burnt"
+					]
+				]
+			]
+		]
+	}
+}
